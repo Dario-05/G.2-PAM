@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.greenpoint.app-debug-50:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.greenpoint.app-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.greenpoint.app-debug-50:/mipmap_ic_launcher.xml.flat",
+        "source": "com.example.greenpoint.app-main-52:/mipmap/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\.gradle\\daemon\\9.3.0\\com.example.greenpoint.app-debug-50:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\diego\\.gradle\\daemon\\9.3.0\\com.example.greenpoint.app-main-52:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.greenpoint.app-debug-50:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.greenpoint.app-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.greenpoint.app-debug-50:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.greenpoint.app-main-52:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.greenpoint.app-debug-50:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.greenpoint.app-main-52:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\.gradle\\daemon\\9.3.0\\com.example.greenpoint.app-debug-50:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\diego\\.gradle\\daemon\\9.3.0\\com.example.greenpoint.app-main-52:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.greenpoint.app-debug-50:/mipmap_ic_launcher_round.xml.flat",
+        "source": "com.example.greenpoint.app-main-52:/mipmap/ic_launcher_round.xml"
+    }
+]
